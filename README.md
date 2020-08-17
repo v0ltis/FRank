@@ -31,7 +31,6 @@ Votre message peut être simplement "Un utilisateur a gagné un niveau", mais é
 |oldUserLevel|Ancien niveau du membre| 24
 |userRank|Position dans le classement de la personne|3
 |userRanked|Nombre de personnes dans le classement|38
-|NextLevelNeedXp|Nombre d'xp à optenir pour accéder au prochain niveau|475
 | |Et bientôt d'autres ...| 
 
 ### Comment utiliser la commande:
