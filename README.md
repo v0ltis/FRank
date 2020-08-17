@@ -27,8 +27,6 @@ Votre message peut être simplement "Un utilisateur a gagné un niveau", mais é
 |intDay|Jour (en chiffre) où le niveau a été gagné| 28
 |intMonth|Mois (en chiffre) où le niveau a été gagné| 12
 |year|Année où le niveau a été gagné|2020
-|strDay|Jour (en texte) où le niveau a été gagné| Lundi
-|strMonth|Mois (en texte) où le niveau a été gagné| Décembre
 |userLevel|Nouveau niveau du membre| 25
 |oldUserLevel|Ancien niveau du membre| 24
 |userRank|Position dans le classement de la personne|3
