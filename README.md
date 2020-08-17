@@ -40,10 +40,11 @@ Et bientôt d'autres ...
 ``@FRank setMessage [message]``.
 Par exemple:
 
+
 ``@FRank setMessage Bravo {.userMention}, tu es désormais niveau {.userLevel}! Il te faut {.NextLevelNeedXp} xp pour acceder au prochain niveau !``
+
 affichera:
 ``Bravo @FRank#7224, tu es désormais niveau 7! Il te faut 422 xp pour acceder au prochain niveau, bonne chance !``
-
 
 Il y a une limite de 1000 caractères, pour eviter tout spam.
 
