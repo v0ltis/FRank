@@ -38,6 +38,7 @@ Votre message peut être simplement "Un utilisateur a gagné un niveau", mais é
 
 ### Comment utiliser la commande:
 ``@FRank setMessage [message]``.
+
 Par exemple:
 
 
