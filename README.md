@@ -24,6 +24,8 @@ Votre message peut être simplement "Un utilisateur a gagné un niveau", mais é
 |second|Seconde où le niveau à été gagné| 18
 |minute|minute où le niveau à été gagné| 36
 |hour|Heure où le niveau à été gagné| 12
+|strDay|Jour de la semaine|Lundi
+|strMonth|Mois en lettres|Juin
 |intDay|Jour (en chiffre) où le niveau a été gagné| 28
 |intMonth|Mois (en chiffre) où le niveau a été gagné| 12
 |year|Année où le niveau a été gagné|2020
